@@ -1,0 +1,145 @@
+#title{
+    font-family: Integral CF;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+    text-align: center;
+    color: black;
+    width: 403px;
+    height: 58px;
+    margin-top: 991px;
+    margin-left:  518px;
+    position: absolute;
+}
+#t-shirt-1{
+    width: 295px;
+    height: 298px;
+    margin-top: 1104px;
+    left: 100px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    position: absolute;
+}
+#t-shirt-2{
+    width: 295px;
+    height: 298px;
+    margin-top: 1104px;
+    left: 415px;
+    padding: 0px 13px 0px 14px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    position: absolute;
+}
+#t-shirt-3{
+    width: 295px;
+    height: 298px;
+    margin-top: 1104px;
+    left: 730px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    position: absolute;
+}
+#t-shirt-4{
+    width: 295px;
+    height: 298px;
+    margin-top: 1104px;
+    margin-left: 1045px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    position: absolute;
+}
+#description1{
+    width: 150px;
+    height: 27px;
+    margin-top: 1418px;
+    margin-left: 100px;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    position: absolute;
+}
+#description2{
+    width: 150px;
+    height: 27px;
+    margin-top: 1418px;
+    margin-left: 415px;
+    position: absolute;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;  
+}
+#description3{
+    width: 150px;
+    height: 27px;
+    margin-top: 1418px;
+    margin-left: 730px;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    position: absolute;
+}
+#description4{
+    width: 150px;
+    height: 27px;
+    margin-top: 1418px;
+    margin-left: 1045px;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    position: absolute;
+}
+#btn{
+    width: Fixed (218px)px;
+    height: Fixed (52px)px;
+    margin-top: 1548px;
+    margin-left: 640px;
+    padding: 16px 54px 16px 54px;
+    gap: 12px;
+    border-radius: 62px;
+    border: 1px;
+    border: 1px solid #0000001A;
+    position: absolute;
+}
+#price1{
+    width: Hug (55px)px;
+    height: Hug (32px)px;
+    margin-top: 1480px;
+    left: 100px;
+    gap: 10px;
+    position: absolute;
+}
+#price2{
+    width: Hug (200px)px;
+    height: Hug (32px)px;
+    margin-top: 1480px;
+    left: 415px;
+    gap: 10px;
+    position: absolute;
+}
+#price3{
+    width: 56px;
+    height: 32px;
+    margin-top: 1480px;
+    left: 730px;
+    position: absolute;
+}
+#price4{
+    width: Hug (189px)px;
+    height: Hug (32px)px;
+    margin-top: 1480px;
+    left: 1045px;
+    gap: 10px;
+    position: absolute;
+}

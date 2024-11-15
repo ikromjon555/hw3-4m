@@ -1,0 +1,87 @@
+#name{
+    font-family: Integral CF;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: left;
+    color: black;
+    width: 577px;
+    height: 173px;
+    margin-top:  237px;
+    margin-left: 100px;
+    position: absolute;
+}
+#img{
+    width: 1440px;
+    height: 663px;
+    margin-top: 134px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+#description{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+    width: 545px;
+    height: 33px;
+    margin-top: 442px;
+    margin-left: 100px;
+    color:  black;
+    position: absolute;
+}
+#button{
+    width: Fixed (210px)px;
+    height: Fixed (52px)px;
+    margin-top: 507px;
+    margin-left: 100px;
+    padding: 16px 54px 16px 54px;
+    gap: 12px;
+    border-radius: 62px;
+    opacity: 0px;
+    background-color: black;
+    color: white;
+    position: absolute;
+}
+#products{
+    width: Hug (596px)px;
+    height: Hug (74px)px;
+    margin-top: 607px;
+    margin-left: 100px;
+    gap: 32px;
+    opacity: 0px;
+    position: absolute;
+    display: flex;
+}
+#desc{
+    font-family: Satoshi;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+}
+#number{
+    font-family: Satoshi;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: left;
+}
+#brands{
+    background-color: black;
+    width: 1440px;
+    height: 122px;
+    margin-top: 797px;
+    display: flex;
+    position: absolute;
+    color: white;
+    align-items: center;
+}
+#names{
+    margin-left: 30px;
+    display: flex;
+    gap: 150px;
+    padding: 50px;
+}

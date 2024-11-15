@@ -1,0 +1,144 @@
+#title2{
+    font-family: Integral CF;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+    text-align: center;
+    color: black;
+    width: 346px;
+    height: 58px;
+    margin-top: 1728px;
+    left: 546px;
+    position: absolute;
+}
+#top-selling-1{
+    width: 295px;
+    height: 298px;
+    margin-top: 1841px;
+    left: 100px;
+    border-radius: 20px;
+    position: absolute;
+}
+#top-selling-2{
+    width: 295px;
+    height: 298px;
+    margin-top: 1841px;
+    margin-left: 415px;
+    padding: 0px 0px 0px 1px;
+    border-radius: 20px;
+    position: absolute;
+}
+#top-selling-3{
+    width: 295px;
+    height: 298px;
+    margin-top: 1841px;
+    left: 730px;
+    border-radius: 20px;
+    position: absolute;
+}
+#top-selling-4{
+    width: 295px;
+    height: 298px;
+    margin-top: 1841px;
+    margin-left: 1045px;
+    padding: 0px 21px 0px 22px;
+    border-radius: 20px;
+    position: absolute;
+}
+#top-selling-title-1{
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    width: 194px;
+    height: 27px;
+    margin-top: 2155px;
+    margin-left: 100px;
+    position: absolute;
+}
+#top-selling-title-2{
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    width: 226px;
+    height: 27px;
+    margin-top: 2155px;
+    margin-left: 415px;
+    position: absolute;
+}
+#top-selling-title-3{
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    width: 239px;
+    height: 27px;
+    margin-top: 2155px;
+    margin-left: 730px;
+    position: absolute;
+}
+#top-selling-title-4{
+    font-family: Satoshi;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    width: 185px;
+    height: 27px;
+    margin-top: 2155px;
+    margin-left: 1045px;
+    position: absolute;
+}
+#top-selling-price-1{
+    font-family: Satoshi;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32.4px;
+    text-align: left;
+    width: 53px;
+    height: 32px;
+    margin-top: 2217px;
+    margin-left: 100px;
+    position: absolute;
+}
+#top-selling-price-2{
+    font-family: Satoshi;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32.4px;
+    text-align: left;
+    width: 54px;
+    height: 32px;
+    margin-top: 2217px;
+    margin-left: 415px;
+    position: absolute;
+}
+#top-selling-price-3{
+    font-family: Satoshi;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32.4px;
+    text-align: left;
+    width: 47px;
+    height: 32px;
+    margin-top: 2217px;
+    left: 730px;
+    position: absolute;
+}
+#top-selling-price-4{
+    width: Hug (55px)px;
+    height: Hug (32px)px;
+    margin-top: 2217px;
+    margin-left: 1045px;
+    gap: 10px;
+    font-family: Satoshi;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32.4px;
+    text-align: left;
+    position: absolute;
+}
